@@ -1,6 +1,3 @@
-//staging
-//commit
-//push
 
 #include <iostream>
 
